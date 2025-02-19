@@ -19,7 +19,7 @@ MarkupSafe==3.0.2
 mdurl==0.1.2
 narwhals==1.27.1
 nltk==3.9.1
-numpy==1.26.4
+numpy==1.25.2
 packaging==24.2
 pandas==2.2.2
 pillow==11.1.0
